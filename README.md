@@ -1,3 +1,4 @@
+### English version
 # Python Data Science Project
 
 Welcome to my Python data science project repository! This project focuses on leveraging Python libraries for data analysis to answer seven questions.
@@ -28,3 +29,35 @@ To get started with this project, simply clone the repository or create a new pr
 #### 1. Python 3 (You can easily install python with the [original documentation](https://www.python.org/))
 #### 2. Jupyter Notebook (simply change the archive extension to .ipynb or run it on websites such as Colaboratory.
 #### 3 .Pandas (you need to run this code on the cmd: pip install pandas )
+
+
+### Portuguese version
+# Projeto de Ciência de Dados em Python
+
+Bem-vindo ao meu repositório de projeto de ciência de dados em Python! Este projeto foca em utilizar bibliotecas de Python para análise de dados a fim de responder sete questões.
+
+## Visão Geral
+
+Neste projeto, eu explorei um conjunto de dados utilizando Python e bibliotecas populares de ciência de dados como Pandas. Meu objetivo é compartilhar conhecimento com a comunidade.
+
+## O que eu fiz?
+
+Aqui estão algumas respostas nas quais baseei este projeto. É importante saber que você pode fazer isso por conta própria. Caso se sinta perdido, este repositório está aqui para ajudá-lo.
+
+#### 1. Obter apenas os Pokémon do tipo grama lendários.
+#### 2. Obter o Pokémon com o maior HP.
+#### 3. Obter o Pokémon com mais de 80 de Ataque Especial e menos de 120 de Ataque Especial.
+#### 4. Obter a geração de Pokémon com o maior número de Pokémon.
+#### 5. Obter os Pokémon com apenas um tipo, quantos Pokémon existem e qual é a média entre os tipos.
+#### 6. Obter os Pokémon que começam com "J".
+#### 7. Obter o tipo de Pokémon mais comum.
+
+## Como Começar
+
+Para começar com este projeto, simplesmente clone o repositório ou crie um novo projeto e explore o banco de dados com os notebooks Jupyter. Cada notebook corresponde a uma das questões exploradas acima, juntamente com explicações e trechos de código.
+
+## Requisitos
+
+#### 1. Python 3 (Você pode facilmente instalar o Python com a [documentação oficial](https://www.python.org/))
+#### 2. Jupyter Notebook (basta alterar a extensão do arquivo para .ipynb ou executá-lo em sites como o Colaboratory).
+#### 3. Pandas (você precisa executar este código no prompt de comando: pip install pandas)
