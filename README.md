@@ -1,6 +1,6 @@
 # Python Data Science Project
 
-Welcome to my Python data science project repository! This project focuses on leveraging Python libraries for data analysis to answer seven key questions.
+Welcome to my Python data science project repository! This project focuses on leveraging Python libraries for data analysis to answer seven questions.
 
 ## Overview
 
